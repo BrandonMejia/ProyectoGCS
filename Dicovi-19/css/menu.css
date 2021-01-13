@@ -1,0 +1,70 @@
+*{margin: 0; border: 0;}
+title{background-color: $red-200}
+h1{font-size: 25px; text-align: right}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: #615d5f;
+    margin: auto;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #ECAEAE;
+}
+
+form{
+    position: absolute;
+    width: 320px;
+    height: 420px;
+    top: 290px;
+    left: 833px;
+    
+}
+
+.menu li div.Cerrar_Sesion a:hover{
+    background: #FFF000;
+}
+
+div.Cerrar_Sesion{
+    position:fixed;
+    background-color: #FF0000;
+    width: 10%;
+    height: 48px;
+    left: 1241px;
+    top: 30px;
+}
+
+div.logo{
+    list-style: none;
+    padding: 0;
+    background-color: #615d5f;
+    margin: auto;
+}
+
+.menu li div.logo{
+    text-decoration: none;
+    color: white;
+    padding: 0;
+    display: block;
+}
+
+.menu li div.logo a:hover{
+    background: #37abc2;
+}
