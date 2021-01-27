@@ -16,11 +16,12 @@
                           <li class="p-4">
                             <a class="no-underline text-grey-darker hover:text-red-dark" href="{{$centro->url}}">URL: {{$centro->url}}</a>
                             </li>
-                        @endif
+                        @else
                           <li class="p-4">Usted aun no se registra en un centro de salud</li>
                           <li class="p-4"> 
                             <a class="no-underline text-grey-darker hover:text-red-dark" href="{{route('centros.elegir')}}">Regístrese haciendo click aqui</a>  
-                          </li>                             
+                          </li>
+                        @endif                                                       
                       </ul>
                   </div>
               </div>
