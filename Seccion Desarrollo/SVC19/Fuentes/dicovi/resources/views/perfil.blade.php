@@ -16,7 +16,10 @@
                   <ul class="divide-y divide-gray-300">
                       <li class="p-4">DNI: {{auth()->user()->dni}}</li>
                       <li class="p-4">Categoria: {{auth()->user()->categoria}} </li>
-                      <li class="p-4">Centro de Vacunación: {{$perfil->centro->nombre}}</li>
+                      @if ($perfil->centro!=null)
+                      <li class="p-4">Centro de Vacunación: {{$perfil->centro->nombre}}</li>                          
+                      @endif
+
                   </ul>
               </div>
           </div>
