@@ -2,7 +2,7 @@
     <div>
         <div class="sliderAx h-auto">
             <div id="slider-1" class="container mx-auto">
-              <div class="bg-cover bg-center  h-auto text-white py-24 px-10 object-fill" style="background-image: url(https://images.unsplash.com/photo-1544427920-c49ccfb85579?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80)">
+              <div class="bg-cover bg-center  h-auto text-white py-24 px-10 object-fill" style="background-image: url(http://www.spneumologia.org.pe/images/actividades2019/covid-pic02.jpg">
              <div class="md:w-1/2">
               <p class="font-bold text-sm uppercase">Infórmate</p>
               <p class="text-3xl font-bold">¿Qué dice la OMS?</p>
@@ -14,7 +14,7 @@
             </div>
       
             <div id="slider-2" class="container mx-auto">
-              <div class="bg-cover bg-top  h-auto text-white py-24 px-10 object-fill" style="background-image: url(https://images.unsplash.com/photo-1544144433-d50aff500b91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)">
+              <div class="bg-cover bg-top  h-auto text-white py-24 px-10 object-fill" style="background-image: url(https://www.goldfields.com.pe/images/covid-banner.jpg)">
              
         <p class="font-bold text-sm uppercase">Infórmate</p>
               <p class="text-3xl font-bold">Lo último publicado por el Minsa</p>
