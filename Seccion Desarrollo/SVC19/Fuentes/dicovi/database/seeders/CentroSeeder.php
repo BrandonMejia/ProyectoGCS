@@ -226,21 +226,87 @@ class CentroSeeder extends Seeder
         $centro31->nombre = "Hospital Regional Minsa II-II Moyobamba";
         $centro31->url = "https://goo.gl/maps/tRmZSqms2JdKC62q8";
         $centro31->capacidad = 30;
-        $centro31->distrito_id = 61;
+        $centro31->distrito_id = 62;
         $centro31->save();
 
         $centro32 = new Centro();
         $centro32->nombre = "Hospital Hipolito Unanue de Tacna";
         $centro32->url = "https://goo.gl/maps/USKM2yAYowgdvWzt9";
         $centro32->capacidad = 30;
-        $centro32->distrito_id = 61;
+        $centro32->distrito_id = 63;
         $centro32->save();
 
         $centro33 = new Centro();
         $centro33->nombre = "Essalud Tumbes";
         $centro33->url = "https://goo.gl/maps/5TV5qcpr5Fj5CBMN8";
         $centro33->capacidad = 30;
-        $centro33->distrito_id = 61;
+        $centro33->distrito_id = 64;
         $centro33->save();
+
+        $centro34 = new Centro();
+        $centro34->nombre = "Hospital Nacional Docente Madre Niño San Bartolomé";
+        $centro34->url = "https://goo.gl/maps/Agnh66dp3ziNpPpB6";
+        $centro34->capacidad = 50;
+        $centro34->distrito_id = 1;
+        $centro34->save();
+
+        $centro35 = new Centro();
+        $centro35->nombre = "Hospital Nacional Dos De Mayo";
+        $centro35->url = "https://goo.gl/maps/acTK6omiHANHzb839";
+        $centro35->capacidad = 50;
+        $centro35->distrito_id = 1;
+        $centro35->save();
+
+        $centro36 = new Centro();
+        $centro36->nombre = "Hospital EsSalud Grau";
+        $centro36->url = "https://goo.gl/maps/uvdHNhpB1k2GgifM7";
+        $centro36->capacidad = 50;
+        $centro36->distrito_id = 1;
+        $centro36->save();
+
+        $centro37 = new Centro();
+        $centro37->nombre = "Hospital II Ramón Castilla";
+        $centro37->url = "https://goo.gl/maps/A1EE1yRjRFjR9Gqs8";
+        $centro37->capacidad = 50;
+        $centro37->distrito_id = 1;
+        $centro37->save();
+
+        $centro38 = new Centro();
+        $centro38->nombre = "Hospital de la Solidaridad";
+        $centro38->url = "https://goo.gl/maps/3mdaks7b3V1Kh87H9";
+        $centro38->capacidad = 50;
+        $centro38->distrito_id = 1;
+        $centro38->save();
+
+        $centro39 = new Centro();
+        $centro39->nombre = "Hospital Eduardo Rebagliati";
+        $centro39->url = "https://goo.gl/maps/zaXvdduw6NCx8kVP9";
+        $centro39->capacidad = 50;
+        $centro39->distrito_id = 1;
+        $centro39->save();
+        
+        $centro40 = new Centro();
+        $centro40->nombre = "ESSALUD - IPRESS RÍMAC";
+        $centro40->url = "https://goo.gl/maps/m1GwP2DA1XXCED7o8";
+        $centro40->capacidad = 50;
+        $centro40->distrito_id = 1;
+        $centro40->save();
+
+        $centro41 = new Centro();
+        $centro41->nombre = "Hospital PNP Augusto B. Leguía";
+        $centro41->url = "https://goo.gl/maps/Hs6G5sLzAYUaPDYL7";
+        $centro41->capacidad = 50;
+        $centro41->distrito_id = 1;
+        $centro41->save();
+
+        $centro42 = new Centro();
+        $centro42->nombre = "Hospital Mogrovejo";
+        $centro42->url = "https://goo.gl/maps/XeqzVnTUv4s4ZZ9EA";
+        $centro42->capacidad = 50;
+        $centro42->distrito_id = 1;
+        $centro42->save();
+
+
+
     }
 }
