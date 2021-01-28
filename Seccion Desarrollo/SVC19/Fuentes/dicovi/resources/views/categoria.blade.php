@@ -91,7 +91,7 @@
                 <!-- Article -->
                 <article class="overflow-hidden rounded-lg shadow-lg">
     
-                    <a href="#">
+                    <a href="https://forms.gle/HWCzqRkLmuCMVxNY8">
                         <img alt="Placeholder" class="block h-auto w-full" src="https://picsum.photos/600/400/?random">
                     </a>
     
@@ -107,7 +107,7 @@
                     </header>
     
                     <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                        <a class="flex items-center no-underline hover:underline text-black" href="#">
+                        <a class="flex items-center no-underline hover:underline text-black" href="https://forms.gle/HWCzqRkLmuCMVxNY8">
                             <img alt="Placeholder" class="block rounded-full" src="https://picsum.photos/32/32/?random">
                             <p class="ml-2 text-sm">
                                 Aplicar aquí
@@ -130,7 +130,7 @@
                 <!-- Article -->
                 <article class="overflow-hidden rounded-lg shadow-lg">
     
-                    <a href="#">
+                    <a href="https://forms.gle/9EPVsQ2TVvvFu3wSA">
                         <img alt="Placeholder" class="block h-auto w-full" src="https://picsum.photos/600/400/?random">
                     </a>
     
@@ -146,7 +146,7 @@
                     </header>
     
                     <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                        <a class="flex items-center no-underline hover:underline text-black" href="#">
+                        <a class="flex items-center no-underline hover:underline text-black" href="https://forms.gle/9EPVsQ2TVvvFu3wSA">
                             <img alt="Placeholder" class="block rounded-full" src="https://picsum.photos/32/32/?random">
                             <p class="ml-2 text-sm">
                                 Aplicar aquí
